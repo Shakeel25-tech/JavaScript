@@ -6,4 +6,7 @@
 //symbol =>unique
 //object
 
-console.log(typeof "Shakeel");
+console.log(typeof "Shakeel");//string
+console.log(typeof 123);//number
+console.log(typeof null);//object
+console.log(typeof undefined);//undefined
