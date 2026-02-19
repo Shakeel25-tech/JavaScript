@@ -14,3 +14,12 @@ console.log(gameName.slice(-5,3));
 
 
 
+const Name = "  shakeel  " 
+console.log(Name.trim())
+
+const url = "https://shakeel%20.com"
+console.log(url.replace('%20','-'));
+
+
+
+
