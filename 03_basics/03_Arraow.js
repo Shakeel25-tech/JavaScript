@@ -37,12 +37,12 @@ chai2()
 
 
 //method first
-const addTwo = (num1,num2) =>{
+const add = (num1,num2) =>{
     return num1+num2
 }
 
 //method second
-const addTwo = (num1,num2) => num1+num2
+const addition = (num1,num2) => num1+num2
 
 
 //method third
