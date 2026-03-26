@@ -9,3 +9,8 @@ if(true){
 //console.log(a);
 console.log("outer: ",b);
 console.log(c);
+
+
+//let & const → block scoped
+//var → function scoped (can leak outside blocks)
+//Avoid using var in modern JavaScript — use let or const to prevent unexpected bugs like this
